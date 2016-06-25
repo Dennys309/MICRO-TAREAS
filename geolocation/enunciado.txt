@@ -1,0 +1,1 @@
+guiarse con el archivo ejemplo_geolocation y que solo aparezca la latitud y longitud de tu posicion actual
